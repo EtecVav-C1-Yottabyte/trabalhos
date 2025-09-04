@@ -1,1 +1,1 @@
-Repositorio dedicado ao trabalho de Fundametos da informatica
+Repositório dedicado ao trabalho de Fundametos da Informática
