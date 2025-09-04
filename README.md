@@ -1,5 +1,5 @@
 # Repositório do trabalho de Fundamentos da Informatica
-## tema: Computadores Quanticos
+## Tema: Computadores Quanticos
 ### Grupo:
 ### Arthur T. Mendes
 ### Bruno L. de Lima
@@ -8,8 +8,9 @@
 ### Isaac F. Quevedo
 
 # Arquivos
-## 📓 - ArtigoDeComputadoresQuanticos.docx -> Artigo do trabalho
-## 📓 - ModeloSlideApresentacao.ppt -> Apresentação do trabalho(em progresso)
+ 📓 - ArtigoDeComputadoresQuanticos.docx -> Artigo do trabalho (em progresso)
+ <br>
+ 📓 - ModeloSlideApresentacao.ppt -> Apresentação do trabalho (em progresso)
 
 
 
